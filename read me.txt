@@ -1,0 +1,11 @@
+How to use my code:
+
+1. Open Code_SID540293775 in MATLAB.
+2. Press Run to run the high- level script.
+3. Choose sound source by entering densil or snare or music.
+4. Choose the distance of sound by entering number, recommended range from 1-10 m, but not mandatory.
+5. Choose the azimuth angle of sound, recommended ranging from 0 to 355 degrees with a 5-degree interval.
+6. You will get the sound result from headphone or speaker. Also, a graph of frequency response.
+7. The demo will automatically be stored at the same file called "demo".
+
+Note: This system works better over headphone.
